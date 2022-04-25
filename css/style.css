@@ -1,3 +1,26 @@
 .wow {
   width: 100px;
 }
+.box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+body {
+
+  background:#836E2E  ;   
+  color: #FFAE00  ;  
+font-family: 'PT Sans', sans-serif;
+  
+}
+
+h1, h3, h4 {
+  color: #c1b425 ;
+  
+} 
+p {
+    color: #060606 ;
+  }
+li {
+  color: #eeb844  ;  
+}
